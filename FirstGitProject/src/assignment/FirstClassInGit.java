@@ -10,10 +10,5 @@ public class FirstClassInGit {
 		String lastName = in.next();
 		in.close();
 		System.out.println("Your last name is " + lastName);
-		//add a statement to display your name in the console
-		
-		//Then commit your changes
-
 	}
-
 }
