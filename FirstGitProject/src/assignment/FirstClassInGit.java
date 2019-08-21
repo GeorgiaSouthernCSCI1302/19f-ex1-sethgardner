@@ -9,7 +9,7 @@ public class FirstClassInGit {
 		System.out.println("What is your last name");
 		String lastName = in.next();
 		in.close();
-		System.out.println("My last name is " + lastName);
+		System.out.println("Your last name is " + lastName);
 		//add a statement to display your name in the console
 		
 		//Then commit your changes
